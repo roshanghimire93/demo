@@ -1,14 +1,14 @@
 {
   "policies": [
-    { "id": 1, "title": "Acceptable Use", "link": "https://www.google.com },
+    { "id": 1, "title": "Acceptable Use", "link": "https://www.google.com" },
     { "id": 2, "title": "Password", "link": "https://products.office.com/en-us/sharepoint/collaboration"},
-    { "id": 3, "title": "Backups", "link": "https://www.google.com},
-    { "id": 4, "title": "Encryption", "link": "https://www.google.com },
-    { "id": 5, "title": "Remote access", "link": "https://www.google.com},
-    { "id": 6, "title": "Asset control", "link": "https://www.google.com},
-    { "id": 7, "title": "Mobile device", "link": "https://www.google.com },
-    { "id": 8, "title": "Virtualization", "link": "https://www.google.com},
-    { "id": 9, "title": "Severance", "link": "https://www.google.com},
-    { "id": 10, "title": "Third party", "link": "https://www.google.com}
+    { "id": 3, "title": "Backups", "link": "https://www.google.com"},
+    { "id": 4, "title": "Encryption", "link": "https://www.google.com" },
+    { "id": 5, "title": "Remote access", "link": "https://www.google.com"},
+    { "id": 6, "title": "Asset control", "link": "https://www.google.com"},
+    { "id": 7, "title": "Mobile device", "link": "https://www.google.com" },
+    { "id": 8, "title": "Virtualization", "link": "https://www.google.com"},
+    { "id": 9, "title": "Severance", "link": "https://www.google.com"},
+    { "id": 10, "title": "Third party", "link": "https://www.google.com"}
     ]
 }
