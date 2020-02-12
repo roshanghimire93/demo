@@ -1,7 +1,7 @@
 {
   "policies": [
     { "id": 1, "title": "Acceptable Use", "link": "https://www.google.com },
-    { "id": 2, "title": "Password", "link": "https://products.office.com/en-us/sharepoint/collaboration},
+    { "id": 2, "title": "Password", "link": "https://products.office.com/en-us/sharepoint/collaboration"},
     { "id": 3, "title": "Backups", "link": "https://www.google.com},
     { "id": 4, "title": "Encryption", "link": "https://www.google.com },
     { "id": 5, "title": "Remote access", "link": "https://www.google.com},
