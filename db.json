@@ -1,14 +1,14 @@
 {
   "policies": [
-    { "id": 1, "title": "Post 1", "link": "www.google.com" },
-    { "id": 2, "title": "Post 2", "link": "www.google.com"},
-    { "id": 3, "title": "Post 3", "link": "www.google.com"},
-    { "id": 4, "title": "Post 1", "link": "www.google.com" },
-    { "id": 5, "title": "Post 2", "link": "www.google.com"},
-    { "id": 6, "title": "Post 3", "link": "www.google.com"},
-    { "id": 7, "title": "Post 1", "link": "www.google.com" },
-    { "id": 8, "title": "Post 2", "link": "www.google.com"},
-    { "id": 9, "title": "Post 3", "link": "www.google.com"},
-    { "id": 10, "title": "Post 3", "link": "www.google.com"}
+    { "id": 1, "title": "Acceptable Use", "link": "www.google.com" },
+    { "id": 2, "title": "Password", "link": "www.google.com"},
+    { "id": 3, "title": "Backups", "link": "www.google.com"},
+    { "id": 4, "title": "Encryption", "link": "www.google.com" },
+    { "id": 5, "title": "Remote access", "link": "www.google.com"},
+    { "id": 6, "title": "Asset control", "link": "www.google.com"},
+    { "id": 7, "title": "Mobile device", "link": "www.google.com" },
+    { "id": 8, "title": "Virtualization", "link": "www.google.com"},
+    { "id": 9, "title": "Severance", "link": "www.google.com"},
+    { "id": 10, "title": "Third party", "link": "www.google.com"}
     ]
 }
