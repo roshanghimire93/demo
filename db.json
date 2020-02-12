@@ -1,27 +1,7 @@
-[
-    {
-        "id": 1,
-        "name": "Acceptable Use",
-        "link": "https://products.office.com/en-us/sharepoint/collaboration"
-    },
-    {
-        "id": 2,
-        "name": "Password",
-        "link": "https://products.office.com/en-us/sharepoint/collaboration"
-    },
-    {
-        "id": 3,
-        "name": "Change Management",
-        "link": "https://products.office.com/en-us/sharepoint/collaboration"
-    },
-    {
-        "id": 4,
-        "name": "Incident Response",
-        "link": "https://products.office.com/en-us/sharepoint/collaboration"
-    },
-    {
-        "id": 5,
-        "name": "Remote Access",
-        "link": "https://products.office.com/en-us/sharepoint/collaboration"
-    }
-]
+{
+  "policies": [
+    { "id": 1, "title": "Post 1", "link": 'www.google.com' },
+    { "id": 2, "title": "Post 2", "link": 'www.google.com'},
+    { "id": 3, "title": "Post 3", "link": 'www.google.com'}
+    ]
+}
