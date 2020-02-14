@@ -9,7 +9,7 @@
     { "id": 7, "title": "Mobile device", "link": "https://www.google.com" },
     { "id": 8, "title": "Virtualization", "link": "https://www.google.com"},
     { "id": 9, "title": "Severance", "link": "https://www.google.com"},
-    { "id": 10, "title": "Third party", "link": "https://www.google.com"}
+    { "id": 10, "title": "Third party", "link": "https://www.google.com"},
     { "id": 11, "title": "Sanction", "link": "https://www.google.com"},
     { "id": 12, "title": "Security Incidents", "link": "https://www.google.com" },
     { "id": 13, "title": "Firewalls", "link": "https://www.google.com"},
@@ -18,7 +18,7 @@
     { "id": 16, "title": "Voice Mail", "link": "https://www.google.com"},
     { "id": 17, "title": "Intellectual", "link": "https://www.google.com"},
     { "id": 18, "title": "Network Service", "link": "https://www.google.com"},
-    { "id": 19, "title": "Risk Assessment", "link": "https://www.google.com"}
+    { "id": 19, "title": "Risk Assessment", "link": "https://www.google.com"},
     { "id": 20, "title": "Media Protection", "link": "https://www.google.com"},
     { "id": 21, "title": "Data Classification", "link": "https://www.google.com" },
     { "id": 22, "title": "Email", "link": "https://www.google.com"},
